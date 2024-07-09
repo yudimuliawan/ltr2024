@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yudimuliawan/ltr2024.git"
+    "url": "https://github.com/yudimuliawan/ltr2024.git"
   },
   "author": "",
   "license": "ISC",
